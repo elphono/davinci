@@ -1,0 +1,12 @@
+# Caches Python
+__pycache__/
+*.pyc
+
+# Rendus et sorties
+renders/
+*.mp4
+*.mov
+
+# Système
+.DS_Store
+*.log

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "davinci-resolve": {
+      "command": "/mnt/c/Windows/System32/cmd.exe",
+      "args": [
+        "/c",
+        "C:\\Users\\elphono\\davinci-resolve-mcp\\run_server.bat"
+      ]
+    }
+  }
+}
